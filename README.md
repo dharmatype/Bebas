@@ -29,7 +29,7 @@ From 2018, [Bebas Kai has become open sourced font.](http://dharmatype.com/post/
 From version 2.000, [Bebas Neue has become open source font.](https://github.com/dharmatype/Bebas-Neue)   
 
 ## Thank you  
-Even though Bebas has crazy spacing and bad curves and only has uppercase, many people used this font.  
+Even though Bebas(2005) has crazy spacing and bad curves and only has uppercase, many people used this font.  
 I can't understand why they used but I thank you very much for using, sharing it and giving me precious experience.
 
 ## Terminated  
