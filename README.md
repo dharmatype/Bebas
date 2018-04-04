@@ -9,7 +9,7 @@ Bebas is a free display font for headline, caption, and titling designed by [Ryo
 
 *  Bebas (2005)  
 *This repository.*  
-[Bebas](https://www.dafont.com/bebas.font) is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
+Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
 
 * Bebas Neue version 1.xxx (2010)  
@@ -42,8 +42,7 @@ Bebas(2005) is free font.
 You can use this font free of charge even for commercial purposes.
 
 ## Download
-You can download from [dafont](https://www.dafont.com/bebas.font) .  
-Or please search by google. There are a few site where you can download the font from.
+Please search by google. There are a few site where you can download the font from.
 
 ## Authors
 
