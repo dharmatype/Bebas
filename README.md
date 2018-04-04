@@ -34,13 +34,16 @@ I can't understand why they used but I thank you very much for using, sharing it
 
 ## Terminated  
 Bebas(2005) is no more being developed.  
-I have lost its source file.
-
+I have lost its source file.  
 
 ## License
 
 Bebas is free font.  
 You can use this font free of charge even for commercial purposes.
+
+## Download
+You can download from [dafont](https://www.dafont.com/bebas.font) .  
+Or please search by google. There are a few site where you can download the font from.
 
 ## Authors
 
