@@ -38,7 +38,7 @@ I have lost its source file.
 
 ## License
 
-Bebas is free font.  
+Bebas(2005) is free font.  
 You can use this font free of charge even for commercial purposes.
 
 ## Download
