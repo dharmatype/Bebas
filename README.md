@@ -7,7 +7,7 @@ Bebas is a free display font for headline, caption, and titling designed by [Ryo
 
 ## History
 *  [Bebas (2005)](https://github.com/dharmatype/Bebas)   
-*-This repository.*  
+*- This repository.*  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
 Originally released in 2005. *Development was terminated.*
 
