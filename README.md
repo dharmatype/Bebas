@@ -24,7 +24,7 @@ Bebas Kai is one of derivative works based upon Bebas(2005)
 From 2018, Bebas Kai has become open sourced font.   
 
 * [Bebas Neue version 2.000 (2018)](https://github.com/dharmatype/Bebas-Neue)   
-From version 2.000, [Bebas Neue has become open source font.](https://github.com/dharmatype/Bebas-Neue)   
+From version 2.000, Bebas Neue has become open source font.
 
 
 ## Thank you  
