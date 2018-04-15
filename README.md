@@ -29,7 +29,7 @@ From version 2.000, Bebas Neue has become open source font.
 
 ## Thank you  
 Even though Bebas (2005) has crazy spacing and bad curves and only has uppercase, many people used this font.  
-I can't understand why they used but I thank you very much for using, sharing it and giving me precious experience.
+Thank you very much for using, sharing it and giving me precious experience.
 
 
 ## Terminated  
