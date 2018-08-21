@@ -59,7 +59,7 @@ You can use this font free of charge even for commercial purposes.
 
 
 ## Download
-Please search by google. There are a few site where you can download the font from.
+https://gum.co/hHhXa
 
 
 ## Authors
