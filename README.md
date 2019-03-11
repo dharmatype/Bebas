@@ -66,7 +66,7 @@ You can use this font free of charge even for commercial purposes.
 
 
 ## Download
-[https://gum.co/hHhXa](https://www.dafont.com/bebas.font)
+[https://www.dafont.com/bebas.font](https://www.dafont.com/bebas.font)
 
 
 ## Authors
