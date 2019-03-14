@@ -49,16 +49,11 @@ Available from [Our partners](https://dharmatype.com/shop) such like [Myfonts](h
 * [Bebas (2005) — Free font](https://www.dafont.com/bebas.font)  
 *- This repository.*  
 Bebas is a free font for the purpose of type design training/practice for myself and to get feedback from the world.  
-Originally released in 2005. *Development was terminated.*  
+Originally released in 2005. ~~*Development was terminated.*~~ version1.1(2019)
 
 ## Thank you  
 Even though Bebas (2005) has crazy spacing and bad curves and only has uppercase, many people used this font.  
 Thank you very much for using, sharing it and giving me precious experience.
-
-
-## Terminated  
-Bebas (2005) is no more being developed.  
-I have lost its source file.  
 
 
 ## License
