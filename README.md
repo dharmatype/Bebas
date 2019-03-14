@@ -5,7 +5,7 @@
 Bebas is a free display font for headline, caption, and titling designed by [Ryoichi Tsunekawa](http://dharmatype.com).   
 [http://bebasfont.com](http://bebasfont.com)  
 
-[http://bebasfont.com/Bebas-001.png](http://bebasfont.com/Bebas-001.png])
+![http://bebasfont.com/Bebas-001.png](http://bebasfont.com/Bebas-001.png)
 
 ## History
 * [Bebas Neue Pro (2019)  – Commercial font](https://www.myfonts.com/fonts/flat-it/bebas-neue-pro/?refby=dharmatype)  
